@@ -6,6 +6,6 @@ This account contains my **entire web-based portfolio** and is distinct from the
 
 For additional repositories, please visit my other account: 
 
-https://github.com/zewen-yang.github.io
+https://Zewen-Yang.github.io
 
 
