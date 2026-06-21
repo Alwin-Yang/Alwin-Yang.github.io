@@ -1,6 +1,6 @@
 # ZewenYang Portfolio
 
-[Homepage](https://alwin-yang.github.io)
+[Homepage](https://Alwin-Yang.github.io)
 
 This account contains my **entire web-based portfolio** and is distinct from the main one, where other repositories are located.
 
